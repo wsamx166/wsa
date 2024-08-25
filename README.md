@@ -1,2 +1,2 @@
 # wsa
-    git clone 
+    git clone https://github.com/wsamx166/wsa.git
